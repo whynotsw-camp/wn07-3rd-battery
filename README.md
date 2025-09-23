@@ -11,7 +11,8 @@ whynotsw-camp 3rd-template 레포지토리입니다.
 
 | 홍가연 | 박민상 | 김지영 | 신윤서 | 
 |:------:|:------:|:------:|:------:|
-| <img width="150" height="150" alt="가연님 mbti" src="https://github.com/user-attachments/assets/1047575a-5be4-4974-8028-fec73b8ed693" /> | <img width="150" height="150" alt="isfp 사진" src="https://github.com/user-attachments/assets/0f6fa34d-e668-472a-9178-a1756c43f7d1" /> | <img width="150" height="150" alt="지영님 mbti" src="https://github.com/user-attachments/assets/4250441b-40c3-4c45-add8-f024b7040394" /> | <img width="150" height="150" alt="신윤서 mbti" src="여기에_신윤서_이미지_URL" /> |
+| <img width="150" height="150" alt="가연님 mbti" src="https://github.com/user-attachments/assets/1047575a-5be4-4974-8028-fec73b8ed693" /> | <img width="150" height="150" alt="isfp 사진" src="https://github.com/user-attachments/assets/0f6fa34d-e668-472a-9178-a1756c43f7d1" /> | <img width="150" height="150" alt="지영님 mbti" src="https://github.com/user-attachments/assets/4250441b-40c3-4c45-add8-f024b7040394" /> | <img width="150" height="150" alt="신윤서 mbti" src="https://github.com/user-attachments/assets/57cfcff6-9f1c-4b05-919a-2cb4d3bb6f2c" />
+       
 
 
 ## 1. 프로젝트 개요
