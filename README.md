@@ -1,14 +1,73 @@
 # 냉장고 재료 기반 맞춤 레시피 추천 서비스 CookUs
 
+<p align="center">
+  <a href="http://43.203.1.85/">
+    <b>🔗 CookUs 서비스 바로가기</b>
+  </a>
+  <br/>
+  <sub>※ 본 서비스는 <b>2025-12-31</b>까지 운영되며 이후 배포가 종료됩니다.</sub>
+</p>
 
 
-| 홍가연 | 박민상 | 김지영 | 신윤서 | 
-|:------:|:------:|:------:|:------:|
-| <img width="150" alt="hong" src="https://github.com/user-attachments/assets/9fa60bb2-6686-45f5-8b2f-d95d18834c74" /> | <img width="150" alt="park" src="https://github.com/user-attachments/assets/235c9ffe-99cb-4f7e-9187-3fc6bae16d77" /> | <img width="150" alt="kim" src="https://github.com/user-attachments/assets/cde8666b-9632-44a4-96c6-054f061d8e24" /> | <img width="150" alt="shin" src="https://github.com/user-attachments/assets/aedcdaa7-ef0d-46a4-a3ed-ac6b22aa711e" /> |
-| PM · Frontend | 데이터 분석가 · DB | 기획 · Backend | 데이터 엔지니어 · DB |
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/ca7a85af-87bb-4ec5-8f43-24628572b585"
+    alt="서빙 건전지"
+    width="280"
+  />
+</p>
+
+# TEAM 건전지
+<p align="center">
+  <table width="100%">
+    <tr>
+      <th>홍가연</th>
+      <th>박민상</th>
+      <th>김지영</th>
+      <th>신윤서</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img
+          width="220"
+          alt="hong"
+          src="https://github.com/user-attachments/assets/9fa60bb2-6686-45f5-8b2f-d95d18834c74"
+        />
+      </td>
+      <td align="center">
+        <img
+          width="220"
+          alt="park"
+          src="https://github.com/user-attachments/assets/235c9ffe-99cb-4f7e-9187-3fc6bae16d77"
+        />
+      </td>
+      <td align="center">
+        <img
+          width="220"
+          alt="kim"
+          src="https://github.com/user-attachments/assets/cde8666b-9632-44a4-96c6-054f061d8e24"
+        />
+      </td>
+      <td align="center">
+        <img
+          width="220"
+          alt="shin"
+          src="https://github.com/user-attachments/assets/aedcdaa7-ef0d-46a4-a3ed-ac6b22aa711e"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">PM · Frontend</td>
+      <td align="center">데이터 분석가 · DB</td>
+      <td align="center">기획 · Backend</td>
+      <td align="center">데이터 엔지니어 · DB</td>
+    </tr>
+  </table>
+</p>
 
 
-# 프로젝트 계획서
+
+# 🗂프로젝트 계획서
 
 <details>
   <summary>프로젝트 계획서</summary>
@@ -17,7 +76,7 @@
 
 </details>
 
-## 프로젝트 개요
+## 📑프로젝트 개요
 
 - **서비스 목적**
   - 냉장고에 이미 있는 재료를 활용해 “오늘 뭐 먹지?” 고민을 줄여주는 맞춤 레시피 추천 서비스
@@ -50,7 +109,7 @@
    - 요리/기록 습관에 따라 뱃지 부여(예: 첫 요리, 연속 기록 등)
 
 
-## 시스템 아키텍처
+## 🔧시스템 아키텍처
 <img width="1537" height="1269" alt="CookUs_시스템아키텍처" src="https://github.com/user-attachments/assets/1d1712cb-8251-41d3-a1fc-6187bb357c6c" />
 
 
@@ -92,7 +151,7 @@ Data/Analytics (Dashboard)
 
 ---------------------------------------
 
-# 요구사항 정의서
+# 🎯요구사항 정의서
 
 <details>
   <summary>요구사항 정의서</summary>
@@ -127,7 +186,7 @@ Data/Analytics (Dashboard)
 
 ----------------------------------------
 
-# WBS
+# ✨WBS
 
 <details>
   <summary>WBS</summary>
@@ -148,7 +207,7 @@ Data/Analytics (Dashboard)
 | 스프린트 5  | 11/10 ~ 11/15     | 뱃지/알림/대회 기능 보완, 관리자 대시보드, 시나리오·LLM 테스트, AWS 배포 | 운영 수준 품질 확보           |
 | 마무리      | 11/17 ~ 11/21     | 성능 평가, 산출물 정리, 최종 코드/README, 최종 발표·시연·수료    | 최종 정리·발표                |
 
-> 기획 변경 시점: **스프린트 2 (10/15~10/24)**에서 POC 결과 및 데이터 구조를 재검토하고, 현재 CookUs 서비스 구조(냉장고 재료 + 레시피 추천 + 대회/대시보드) 기준으로 방향을 정리했습니다.
+> 기획 변경 시점: 스프린트 2 (10/15~10/24)에서 POC 결과 및 데이터 구조를 재검토하고, 현재 CookUs 서비스 구조(냉장고 재료 + 레시피 추천 + 대회/대시보드) 기준으로 방향을 정리했습니다.
 
 
  
